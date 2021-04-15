@@ -1,0 +1,23 @@
+{
+    "name": "joseda/repaso2",
+    "description": "Repaso 2 del crud",
+    "type": "project",
+    "license": "Free",
+    "authors": [
+        {
+            "name": "Joseda",
+            "email": "jodaru95@gmail.com"
+        }
+    ],
+    "config":{
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "Clases\\": "clases"
+        }
+    },
+    "require": {
+        "fakerphp/faker": "^1.14"
+    }
+}

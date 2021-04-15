@@ -1,0 +1,7 @@
+;parametros de conexion
+;Renombrar este archivo como .config
+[opciones]
+host=tu_host
+bbdd=tu_bbdd
+user=tu_user
+pass=tu_pass
